@@ -80,6 +80,9 @@ Open the provided local URL to interact with the sentiment analyzer. Enter any m
 - Adjust the `clean_text` function in the notebook/app if you need different tokenisation rules or additional preprocessing.
 - Keep any API keys or secrets out of the repository; `.env` files are ignored by default.
 
+## Credit
+[IMDB Dataset kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
 ## License
 
 © 2025 Bismaya Jyoti Dalei. All rights reserved.
