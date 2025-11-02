@@ -26,7 +26,7 @@ A Streamlit web application that classifies IMDB movie reviews as positive or ne
 
 1. **Clone and navigate**
    ```powershell
-   git clone <repository-url>
+   git clone https://github.com/dukebismaya/sentiment_analysis_project.git
    cd sentiment_analysis_project
    ```
 2. **Create a virtual environment (optional but recommended)**
