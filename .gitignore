@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+myvenv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# C extensions
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage*
+coverage.xml
+
+# Streamlit
+.streamlit/
+
+# Environment variables / secrets
+.env
+*.env
+
+# Editor artifacts
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# matplotlib and wordcloud artifacts
+*.png
+*.svg
+
